@@ -1,0 +1,9 @@
+{
+  "options": {
+    "fullscreen": false
+  },
+  "screenDimensions": {
+    "screenWidth": 2048,
+    "screenHeight": 928
+  }
+}
